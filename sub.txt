@@ -1,1 +1,13 @@
 vless://94b1d940-9f81-4276-95c6-ccf91ee393fc@s2.online-poshtiban.lol:2096?security=reality&encryption=none&pbk=lq7r-UhCDTO9sfRQAIpANVsS3xDxDmBVT8tb1gDdbwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#%F0%9F%9F%A1%F0%9F%87%B5%F0%9F%87%B9+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84+-+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+
+vless://a7a3700b-3151-4187-a935-c7bd51a577c5@51.222.85.200:443?security=reality&type=grpc&host=&headerType=&serviceName=xyz&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%28CA_Azadima%29%20%5BVLESS%20-%20grpc%5D
+
+vless://a7a3700b-3151-4187-a935-c7bd51a577c5@51.222.85.200:443?security=reality&type=tcp&host=&headerType=&flow=xtls-rprx-vision&path=&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%28CA_Azadima%29%20%5BVLESS%20-%20tcp%5D
+
+vless://a3ddb964-bcf3-4191-8ac5-e487ee03f881@95.216.155.5:443?security=reality&type=grpc&host=&headerType=&serviceName=xyz&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%28Fin3_Azadima%29%20%5BVLESS%20-%20grpc%5D
+
+vless://a3ddb964-bcf3-4191-8ac5-e487ee03f881@95.216.155.5:443?security=reality&type=tcp&host=&headerType=&flow=xtls-rprx-vision&path=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%28Fin3_Azadima%29%20%5BVLESS%20-%20tcp%5D
+
+vless://2ab286e7-42be-42db-91ad-f2d01ef4b3d4@54.38.215.224:443?security=reality&type=grpc&host=&headerType=&serviceName=xyz&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%28EN4_Azadima%29%20%5BVLESS%20-%20grpc%5D
+
+vless://2ab286e7-42be-42db-91ad-f2d01ef4b3d4@54.38.215.224:443?security=reality&type=tcp&host=&headerType=&flow=xtls-rprx-vision&path=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%28EN4_Azadima%29%20%5BVLESS%20-%20tcp%5D

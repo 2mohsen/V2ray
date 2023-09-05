@@ -1,0 +1,1 @@
+vless://94b1d940-9f81-4276-95c6-ccf91ee393fc@s2.online-poshtiban.lol:2096?security=reality&encryption=none&pbk=lq7r-UhCDTO9sfRQAIpANVsS3xDxDmBVT8tb1gDdbwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#%F0%9F%9F%A1%F0%9F%87%B5%F0%9F%87%B9+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84+-+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
